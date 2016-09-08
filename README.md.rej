@@ -1,8 +1,6 @@
 diff a/README.md b/README.md	(rejected hunks)
-@@ -1,5 +1,6 @@
- # Tutorial
- 
+@@ -3,3 +3,4 @@
  This is my tutorial repository.
-+
+ 
  Hi
- 2016/8/25
++2016/8/25
